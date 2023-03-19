@@ -2,6 +2,7 @@
 # Feedback system
 
 The website is developed as a task for AI Unreal Engines which is used to take input for student feedback system and fetch the feedback to the database.
+The system have a responsive design that works on different screen sizes and devices.
 
 
 ## API Reference
